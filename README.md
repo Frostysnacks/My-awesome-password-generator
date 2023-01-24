@@ -11,9 +11,12 @@ N/A
 
 This can be used to generate a random password to the users specifications using a combination of upper and lower case letters, numbers, and special characters. The password can have a length between 8 and 128 characters. This can all be achieved with a simple click of the generate password button. Enjoy!
 
-##Mock up
+## Mock up
 
 ![alt text](https://github.com/Frostysnacks/My-awesome-password-generator/blob/main/passgen.PNG)
+
+## Live Page
+https://frostysnacks.github.io/My-awesome-password-generator/
 
 ## License
 
