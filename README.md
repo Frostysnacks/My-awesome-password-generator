@@ -13,7 +13,7 @@ This can be used to generate a random password to the users specifications using
 
 ##Mock up
 
-
+![alt text](https://github.com/Frostysnacks/My-awesome-password-generator/blob/main/passgen.PNG)
 
 ## License
 
